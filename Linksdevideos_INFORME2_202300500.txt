@@ -1,0 +1,5 @@
+Nombre: Cristian Gerardo Tun Quill
+Carnet: 202300500
+Fecha: 15/08/2024
+Primer video (instalación Dual-Boot ubuntu): https://youtu.be/-zxqTkrljL4?si=krXoeFcN0k4F3iXS
+Segundo video (Conexiones de red): https://youtu.be/h1RU04obf8I
